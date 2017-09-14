@@ -1,5 +1,6 @@
 package com.company;
 import java.util.*;
+//Avoid code duplicates and add class level javedocs.
 public class Question4 {
 
     public static void main(String[] args) {
